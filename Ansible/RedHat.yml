@@ -1,0 +1,6 @@
+apache_user: httpd
+apache_group: httpd
+apache_service: httpd
+apache_conf: httpd.conf
+apache_conf_path: /etc/httpd/conf
+docroot: /var/www/html
